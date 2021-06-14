@@ -1,5 +1,6 @@
 flows:
-  a31a87c1-780a-4576-885c-a4d72edab138: {ver: 1, file: git-version_1.snapshot, comments: '',
-    author: anonymous, created: 1623654275188, flowName: git-version 1, flowDesc: ''}
+  a31a87c1-780a-4576-885c-a4d72edab138: {ver: 2, file: git-version_1.snapshot, comments: added
+      putslack to send messages, author: anonymous, created: 1623660607203, flowName: git-version
+      1, flowDesc: ''}
 layoutVer: 1
 bucketId: cd774819-875f-480a-b219-b807d36dbd5b
