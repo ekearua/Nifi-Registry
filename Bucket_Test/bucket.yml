@@ -1,6 +1,6 @@
 flows:
-  5867743d-ea56-4006-bafe-916781ea66eb: {ver: 1, file: git_test.snapshot, comments: '',
-    author: anonymous, created: 1623691646631, flowName: git test, flowDesc: testing
-      repository}
+  5867743d-ea56-4006-bafe-916781ea66eb: {ver: 2, file: git_test.snapshot, comments: added
+      another warehouse, author: anonymous, created: 1623692003920, flowName: git
+      test, flowDesc: testing repository}
 layoutVer: 1
 bucketId: e9260e37-03a6-4cc2-a005-f8a0f8cb81d7
